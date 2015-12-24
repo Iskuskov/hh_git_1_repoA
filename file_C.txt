@@ -1,1 +1,1 @@
-line1 in file C
+line1 in file C (modified in repo B)
